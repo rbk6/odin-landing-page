@@ -1,0 +1,1 @@
+This website is a continuation of my practice with HTML, CSS, and git, this time with the implementation of a landing page.
