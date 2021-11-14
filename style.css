@@ -1,0 +1,153 @@
+body {
+    margin: 0;
+    background: #F9FAF8;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #b8bdc5;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 16px;
+}
+
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 16px;
+    font-weight: 800;
+    padding: 6px 30px;
+    margin-top: 8px;
+    border-radius: 8px;
+}
+
+img {
+    max-width: 350px;
+}
+
+.header {
+    background: #1F2937;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 240px;
+    padding: 32px 8px 32px 8px;
+}
+
+.logo {
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.left, .right {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.secondary {
+    font-size: 16px;
+    color: #b8bdc5;
+}
+
+.first {
+    background: #2c3c52;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 64px 8px 64px 8px;
+    gap: 120px;
+}
+
+.second {
+    background: #F9FAF8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 48px 8px 48px 8px;
+    gap: 120px;
+}
+
+.third {
+    background: #E5E7EB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px 8px 24px 8px;
+    gap: 120px;
+}
+
+.fourth {
+    background: #3882F6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 64px 5px 64px 5px;
+    margin: 64px 80px 64px 80px;
+}
+
+.final {
+    background: #2c3c52;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 64px 8px 64px 8px;
+    gap: 120px;
+}
+
+.main {
+    font-size: 48px;
+    font-weight: 1000;
+    color: #F9FAF8;
+}
+
+.sub {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.item {
+    max-width: 400px;
+}
+
+.images {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    max-width: 200px;
+    gap: 100px;
+}
+
+.profile {
+    margin: 8px;
+    margin-top: 25px;
+    max-width: 200px;
+}
+
+.text {
+    font-size: 24px;
+}
+
+.quote {
+    font-size: 30px;
+    font-weight: lighter;
+    font-style: italic;
+    max-width: 750px;
+    text-align: left;
+}
+
+.by {
+    font-size: 24px;
+    font-weight: 800;
+    max-width: 750px;
+    display: flex;
+    margin-top: 16px;
+    justify-content: right;
+}
